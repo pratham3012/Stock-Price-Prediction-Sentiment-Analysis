@@ -15,3 +15,9 @@ Twitter data to find the public mood and the degree of membership into 3
 classes - positive, negative or neutral The App forecasts stock prices
 of the next seven days for any given stock under NASDAQ or NSE as input
 by the user.
+
+Team Members - 
+1. Pratham Wanmode
+2. Ashirwad Mishra
+3. Shashwat Dubey
+4. Arpita Das 

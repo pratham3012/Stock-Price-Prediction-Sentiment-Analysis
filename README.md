@@ -6,8 +6,8 @@ Twitter data to find the public mood and the degree of membership into 3 classes
 ### File Structure
 - [tweets.py]() : Structure of Tweets for Sentiment Analysis
 - [Stock Price Prediction.ipynb](https://github.com/pratham3012/Stock-Price-Prediction-Sentiment-Analysis/blob/main/Stock%20Price%20Prediction.ipynb) : Main Machine Learning Module
-- [requirements.txt] : Libraries and Modules required for the Project
-- [Yahoo-Finance-Ticker-Symbols.csv]() : Yahoo Finance Dataset 
+- [requirements.txt](https://github.com/pratham3012/Stock-Price-Prediction-Sentiment-Analysis/blob/main/requirements.txt) : Libraries and Modules required for the Project
+- [Yahoo-Finance-Ticker-Symbols.csv](https://github.com/pratham3012/Stock-Price-Prediction-Sentiment-Analysis/blob/main/Yahoo-Finance-Ticker-Symbols.csv) : Yahoo Finance Dataset 
 
 ### Technologies Used
 <a href="https://www.tensorflow.org/"><li>Tensorflow</a></li>
